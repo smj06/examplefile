@@ -12,4 +12,3 @@ class HelloWorld(models.Model):
 
 
 
-
